@@ -1,0 +1,24 @@
+{
+  "name": "izzie",
+  "version": "1.0.0",
+  "main": ".mongorc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izziewyz/simplegasapp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/izziewyz/simplegasapp/issues"
+  },
+  "homepage": "https://github.com/izziewyz/simplegasapp#readme",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "morgan": "^1.8.1"
+  }
+}
